@@ -25,3 +25,9 @@ fastagent dev
 [Discussions](https://github.com/fastagent-sh/fastagent/discussions) ·
 [Contributing](https://github.com/fastagent-sh/fastagent/blob/main/CONTRIBUTING.md) ·
 [Security](https://github.com/fastagent-sh/fastagent/security/policy)
+
+
+## Developer tools
+
+- [kage](https://github.com/fastagent-sh/kage) — run multiple AI coding-agent sessions in isolated copies of the same Git repository.
+  [npm](https://www.npmjs.com/package/pi-kage) · [Contributing](https://github.com/fastagent-sh/kage/blob/main/CONTRIBUTING.md)
